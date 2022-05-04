@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282206579843",
+    "project_id": "runner-4b0cb",
+    "storage_bucket": "runner-4b0cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282206579843:android:69f1ae4722ff855bf8ffb6",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.RunnerGame3Beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282206579843-tlgpmfnfcqskhp89k187fh92jcidougl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvxBqL_qOFnC4ioZMj_Iboj7KoUlOeW3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282206579843-tlgpmfnfcqskhp89k187fh92jcidougl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
